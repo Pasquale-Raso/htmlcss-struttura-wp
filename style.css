@@ -10,3 +10,15 @@
     margin: 0 auto;
     background-color: bisque;
 }
+
+.header_viola {
+    height: 60px;
+    margin-bottom: 20px;
+    background-color: rgb(225, 0, 255);
+}
+
+.header_giallo {
+    height: 400px;
+    margin-bottom: 20px;
+    background-color: gold;
+}
